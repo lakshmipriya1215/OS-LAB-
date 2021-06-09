@@ -27,3 +27,6 @@ Algorithm:
     
 7: Stop the process
 
+OUTPUT OBTAINED:
+
+![os_output1](https://user-images.githubusercontent.com/69707626/121373378-a2c62180-c95c-11eb-9ca5-05cd62caeb1c.jpg)
